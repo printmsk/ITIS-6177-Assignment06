@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "sai",
+      "id": 2
+    },
+    {
+      "title": "sai",
+      "id": 3
+    },
+    {
+      "title": "sai1",
+      "id": 4
+    },
+    {
+      "title": "saiq",
+      "id": 5
+    },
+    {
+      "title": "saio",
+      "id": 6
+    },
+    {
+      "title": "sai11",
+      "author": "sai111",
+      "id": 7
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 8
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 9
+    },
+    {
+      "title": "sai1111",
+      "id": 10
+    },
+    {
+      "title": "msk",
+      "id": 11
+    },
+    {
+      "title": "",
+      "id": 12
+    },
+    {
+      "title": "msk",
+      "author": "imm",
+      "id": 13
+    },
+    {
+      "title": "sai1",
+      "author": "krishan",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
